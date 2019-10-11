@@ -1,0 +1,22 @@
+app自动化工具，Appium
+
+扩充selenium webdriver
+
+配置步骤：
+1.安装node.js
+2.配置Android sdk
+3.安装模拟器/真机测试
+    模拟器：夜神、海马玩
+    https://www.jianshu.com/p/a4fe290dfac9
+
+    20190815
+    android and夜神，搞了好久也不行。放弃模拟器，什么鬼！shit 老是打不开我的app
+appium报错
+https://blog.csdn.net/hou_angela/article/details/86608090
+4.安装Appium
+
+
+
+
+
+
